@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F5F5F5;
+  color: black;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.photo img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.location {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 15px; /* Adjust as needed */
+  font-weight: bold;
+  margin-bottom: 5px; /* Reduced spacing */
+}
+
+h3 {
+  font-size: 14px; /* Adjust as needed */
+  font-weight: bold;
+  margin-top: 5px; /* Reduced spacing */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social-links button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.social-links button img {
+  width: 48px;
+  height: 48px;
+  vertical-align: middle;
+}
+
+.linkedin-button img {
+  content: url('https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png');
+}
+
+.github-button img {
+  content: url('https://github.com/favicon.ico');
+}
+
+.docker-hub-button img {
+  content: url('https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/63a2fd04f7078f9ab787025f_dockerhub.svg');
+}
