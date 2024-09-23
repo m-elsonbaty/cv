@@ -81,8 +81,8 @@ button {
 }
 
 .social-links button img {
-  width: 40px;
-  height: 40px;
+  width: 48px;
+  height: 48px;
   vertical-align: middle;
 }
 
@@ -95,5 +95,8 @@ button {
 }
 
 .docker-hub-button img {
+  width: 10px; 
+  height: 10px; 
+  vertical-align: middle;
   content: url('https://static-00.iconduck.com/assets.00/docker-icon-256x256-jzvgqn21.png');
 }
