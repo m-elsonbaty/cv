@@ -95,8 +95,6 @@ button {
 }
 
 .docker-hub-button img {
-  width: 10px; 
-  height: 10px; 
-  vertical-align: middle;
-  content: url('https://static-00.iconduck.com/assets.00/docker-icon-256x256-jzvgqn21.png');
+  
+  content: url('https://manalyzer.org/static/icons/bda0046a1eeaad0f55b6cd57f5966dad.ico');
 }
