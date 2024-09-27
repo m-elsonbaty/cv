@@ -3,9 +3,9 @@ function redirectToLinkedIn() {
 }
 
 function redirectToGitHub() {
-  window.location.href = "https://github.com/samtogo407";
+  window.location.href = "https://github.com/m-elsonbaty";
 }
 
 function redirectToDockerHub() {
-  window.location.href = "https://hub.docker.com/u/togo407";
+  window.location.href = "https://hub.docker.com/u/elsonbaty";
 }
